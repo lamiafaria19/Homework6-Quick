@@ -1,0 +1,117 @@
+/***Common Start***/
+*{
+	margin:0;
+	padding:0;
+}
+/***Common End***/
+/***Header Start***/
+header{
+	border-bottom:3px solid #EEF0F3;
+	padding:10px 0;
+}
+.container{
+	width:90%;
+	margin:0 auto;
+	overflow:hidden;
+}
+.logo{
+	width:8%;
+	float:left;
+}
+.logo img{
+	width:100%;
+	
+}
+.menu{
+	margin-top:12px;
+	width:45%;
+	float:right;
+}
+.menu ul{
+	float:right;
+}
+.menu ul li{
+	list-style:none;
+	float:left;
+}
+.menu ul li a{
+	font-family:sans-serif;
+	font-size:16px;
+	font-weight:400;
+	color:#0F2656;
+	text-decoration:none;
+	margin:0 20px;
+	display:inline-block;
+}
+.menu ul li:last-child a{
+	margin-right:0;
+}
+/***Header End***/
+
+/***Banner Start***/
+.banner{
+	padding:60px 0;
+}
+.container2{
+	width:55%;
+	margin:0 auto;
+	
+}
+.b-content{
+	text-align:center;
+	font-family:sans-serif;
+}
+.b-content h1{
+	margin:0;
+	font-size:45px;
+	color:#0F2656;
+}
+.b-content h2{
+	font-size:45px;
+	color:#008AFF;
+	margin:10px 0;
+}
+.b-content p{
+	margin-top:0;
+	margin-bottom:10px;
+	font-size:16px;
+	color:#0F2656;
+	line-height:25px;
+	word-spacing:1px;
+}
+.b-img{
+	width:75%;
+	margin:0 auto;
+}
+.b-img img{
+	width:100%;
+}
+/***Banner End***/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
